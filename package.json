@@ -1,0 +1,21 @@
+{
+  "name": "reddit-marketting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@langchain/textsplitters": "^1.0.1",
+    "@qdrant/js-client-rest": "^1.18.0",
+    "axios": "^1.16.1",
+    "cheerio": "^1.2.0",
+    "langchain": "^1.4.0",
+    "ollama": "^0.6.3"
+  }
+}

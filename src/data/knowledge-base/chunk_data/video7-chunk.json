@@ -1,0 +1,122 @@
+[
+    {
+    "chunk_id": 1,
+    "videoId": "L9ZyUTrhXSQ",
+    "chunk_summary": "Warp's origin story and fundraising: started as a modern terminal for developers, pre-dated AI. Raised $50M from Sequoia when they had only 5,000 users and no revenue. Sequoia partner Andrew Reed was introduced by Figma's Dylan Field and made a 'wild bet' on a technically hard app with a potentially massive market.",
+    "content": "Yeah, great question. So, we're we're 5-year-old company. So, we actually predate AI. And the, you know, the original sort of product vision was let's make a more modern usable version of the command line terminal. My background as a I've been an engineer for a really long time. I used to be a principal engineer at Google. I've always used the terminal. I've never really enjoyed using the terminal. I think it's kind of like a pain in the ass, frankly. ... the original concept was like can we just make something that gives that power that engineers who really master the terminal have to normal engineers. ... from a business perspective the goal was really like ... this is a valuable piece of developer real estate. meaning like it's one of there's probably only two tools that every developer uses every day which is the terminal and the code editor and I was very confident that we could build a product that would make the terminal like experience more powerful and more usable ... I'll run you through it because it's probably interesting for other founders. They invested before we had AI in the product which is crazy actually in retrospect. They invested actually when we had very few users even we had like maybe 5,000 people using warp and you know now we're 50 million. ... we raised a seed round before we had any product. I'm a second time founder. I have a background that I think VCs like right just from someone who was running Google Docs. ... one of whom is the founder and CEO of Figma Dylan Field. he like loved what we were doing and loved the development of the product and the early signals we were getting from customers. And so actually he led our series A and then not long after he led our series A he introduced me to Andrew Reid who's partner at Sequoia who backed us ... he just liked the concept a lot and he was I think he did some amount of pattern matching where he's like you know good team building a really really hard app ... and a potentially very very big market and like kind of a weird unorthodox wild bet to make.",
+    "questions_on_this_chunk": [
+      "How did Warp raise $50M with only 5,000 users?",
+      "Why would Sequoia invest in a pre-revenue developer tool?",
+      "What was Warp's original product vision before AI?",
+      "How did Dylan Field (Figma) help Warp get funded?"
+    ]
+  },
+  {
+    "chunk_id": 2,
+    "videoId": "L9ZyUTrhXSQ",
+    "chunk_summary": "The AI inflection point: before AI, Warp was a nicer terminal (~30% productivity boost). After repositioning as an 'agentic development environment' in June, growth exploded from ~$1M ARR to double-digit millions in 4-5 months, adding ~$1M in new revenue per week. AI makes developers 5x more productive instead of 30%.",
+    "content": "And what happened after AI? When was the inflection point on growth? Because I assume a lot of what we've heard was very recent. ... So, I'll give you just like some stats. This stuff's kind of public. So, going into like May of this year, we were at like a million in AR. So not very high. And then we repositioned as like an environment that was all around agentic development. We call it agentic development environment in June. And our growth just started going crazy to the point where we were adding like a million of new revenue every week. We're now like into the double digits of AR. It's like and it's all happened in four or five months which is pretty cool. It's created a bunch of problems just to be clear. ... it's really exciting to have worked on something for you know we spent a long time building the foundations of this app try to make an incredible product experience to go from something that was like growing like okay like we were monetizing it to something that like really exploded in revenue very quickly was a really neat experience ... if you're using Warp before AI, you're like, 'This is a much nicer terminal experience. It's cool. Maybe it makes me like 30% more productive.' If you use Warp with AI, it can make you like five times more productive or something. It's like a crazy crazy value add.",
+    "questions_on_this_chunk": [
+      "How fast did Warp grow after adding AI?",
+      "What is an 'agentic development environment'?",
+      "How much more productive can AI make a developer?",
+      "What was Warp's ARR before and after the AI pivot?"
+    ]
+  },
+  {
+    "chunk_id": 3,
+    "videoId": "L9ZyUTrhXSQ",
+    "chunk_summary": "Top Warp use cases: 1) great coding agent (alternative to Cursor, Copilot, Gemini) with a native-feeling UI. 2) Non-coding dev tasks — project setup, dependency installation, environment config, cloud deployment. Warp is differentiated from competitors for production/cloud work because it grew out of the terminal, making it far better for the full software lifecycle.",
+    "content": "Can you tell me what are the top two or three use cases that other people are seeing? ... So, warp is good for many many things. So, we are a great coding agent and there are many people who use it like instead of using cloud code or cursor gemini or something like that. So, we're very very good at that. We're you know we've consistently been one of the top coding agents on bbench and on terminal bench. And so just like if you want a great coding agent with a very very native feeling UI because like again like we aren't a fork of VS code or just a textbased app where like this app is built really to support the agentic workflow. It's very good for that. But the other thing that's like killer in warp is that you can use it for all of the non-coding use like tasks. So if you want to use it to like set up a new project and in the past you'd be like how the hell do I get all these like dependencies installed and it's like it starts breaking and your environment variables are wrong and all that Warp's incredible for that. If you want to deploy it and start doing work that's more like in production with your cloud, I think warp is really differentiated and again because it's like grown out of the terminal is incredible for those kinds of use cases. So definitely far better than our competitors for doing stuff like that. So you know it's great for coding but we can do everything across the whole software life cycle.",
+    "questions_on_this_chunk": [
+      "What are the top use cases for Warp?",
+      "How does Warp compare to Cursor or GitHub Copilot?",
+      "Can Warp handle cloud deployment and DevOps tasks?",
+      "What makes Warp better for non-coding development tasks?"
+    ]
+  },
+  {
+    "chunk_id": 4,
+    "videoId": "L9ZyUTrhXSQ",
+    "chunk_summary": "How developers discover Warp: initial growth came from Hacker News (10K signups on launch day), then word of mouth among developers. YouTube has been huge — Warp has 100K subscribers, making it a top 10 developer company on YouTube despite being only 50 people. The product demos well, which fuels organic discovery.",
+    "content": "How do engineers end up discovering Warp? ... I think it depends. So you know because we sort of predated AI we have a lot of people who came to warp for a better terminal experience. So that was the initial draw. In fact, we have a lot of users in India. Actually, India in terms of usage is one of our top markets. ... I think you know initially it was like you know the first day we launched we got like 10,000 signups because we were on hacker news and so just like places where developers hang out they would see warp and try and come and check it out. And then I think after that a big thing for us has been just word of mouth. Like if you want to grow amongst developers I think first and foremost you have to have a product that they really like. ... And then you know we've gotten a little bit more mature at marketing as we've gone. We only have like a five-person marketing team, but like you know our YouTube, for instance, has 100,000 subscribers on it, which puts us as one of the top 10 developer companies in the world when it comes to YouTube, which is crazy. We're like, we're not a big company. We're a 50 person company. So I think and it demos really well. So when you see warp, you're like, what is that? Like that is that a terminal? Like but that looks kind of like an IDE. ... But honestly it's still it's a struggle. Like one of the biggest struggles if you're building a startup is just like how do you get people to know about you?",
+    "questions_on_this_chunk": [
+      "How did Warp get its first users?",
+      "Why is word of mouth critical for developer tools?",
+      "How did Warp grow its YouTube channel to 100K subscribers?",
+      "Where do developers discover new tools?"
+    ]
+  },
+  {
+    "chunk_id": 5,
+    "videoId": "L9ZyUTrhXSQ",
+    "chunk_summary": "Scaling pains from hypergrowth: fraud and abuse costing $1M+/month from fake free accounts abusing AI credits. Support overload (200+ emails). AI SaaS has fundamentally different unit economics — unlike traditional 90% margin SaaS, AI costs are variable (token-based), requiring constant work on pricing to avoid losing money.",
+    "content": "Has that growth broken things at the company? ... Oh, it's broken a ton of stuff. So the vibe before the growth was like let's get things just right and like let's have a more process or whatever. And then the vibe after the growth has been like, you know, we have like 200 support emails we have to answer. like how do we find someone to help us do that as fast as we can or like you know we had this crazy crazy problem that I think a lot of AI companies have where we've had a lot of like fraud and abuse to the tune of like costing us you know over a million dollars a month of just people finding ways to create fake free user accounts to abuse our AI and so it's like we have to fix that that's like a lot that's a lot of money for us ... all these things that we didn't foresee as priorities became priorities as we started growing. Another big one which like I'm you know I think is interesting to talk about is just like you know this AI based tools do not have the same margin profile as your traditional SAS tool where it's like a 90% gross margin. like this stuff costs us a ton of money to provide. And so we've had to do a ton of work to try to get to a pricing model that's actually doesn't lose us money and it's sustainable.",
+    "questions_on_this_chunk": [
+      "What problems did Warp face during hypergrowth?",
+      "How do AI companies deal with fraud and abuse of free credits?",
+      "Why don't AI SaaS companies have 90% margins?",
+      "What are the unit economics challenges for AI-powered tools?"
+    ]
+  },
+  {
+    "chunk_id": 6,
+    "videoId": "L9ZyUTrhXSQ",
+    "chunk_summary": "AI SaaS pricing evolution at Warp: moved from fixed-credit subscription plans ($20/$50/$225 per month) to a hybrid model — $20 base subscription with consumption-based pricing on top. The old model incentivized making users use the product less (bad incentive). New model: users can also bring their own API key. The subscription provides good SaaS-like margins; the credits cover variable AI costs.",
+    "content": "Are you also building a subscription separately? ... Yeah. So, we just changed our billing and I think it's interesting to talk about. So, what we're doing now is like there's a low price subscription. I think relatively low price like 20 bucks a month. It comes with some amount of AI and then after that you basically pay it's consumption based pricing, usage based pricing on top of that. So if you want more AI, you buy more credits. The more credits that you buy, the bigger discount you get and that ensures that like we're not losing money. And then we also offer something that we will let people do the base subscription and then bring their own API key which is interesting. So if people don't want to buy the tokens through us, we're okay with that. Like I basically want developers to do what works for them. And so as long but they still have to subscribe. So it's still and the margin profile of that is much more like a traditional $20 a month SAS business ... The way that we were doing it up until a week ago was we had these like fixed request subscription plans. So, we had like a $20 a month plan, a $50 a month plan, and a $225 a month plan. And you would get as part of that a certain number of like credits essentially. And that model wasn't working. ... the problem was to make money on that kind of model, we're incentivized to have people use it less. So, like the people who we made money from on the $225 a month model didn't use it. And that's like a horrible incentive. Like we want to build something that's super useful for people. And so to get the incentives right, I think for AI companies that have a variable cost where tokens is the dominating thing, you probably have to do some sort of consumption thing.",
+    "questions_on_this_chunk": [
+      "What pricing model works for AI SaaS?",
+      "Why did fixed-credit subscription plans fail for Warp?",
+      "What is consumption-based pricing for AI tools?",
+      "Should AI SaaS let users bring their own API key?"
+    ]
+  },
+  {
+    "chunk_id": 7,
+    "videoId": "L9ZyUTrhXSQ",
+    "chunk_summary": "The future of AI coding: three phases — writing code by hand (ending), writing code by prompt (happening now but early in adoption), and automated agents doing background tasks (coming soon). In 3-4 years, developers will spend more time orchestrating agents than writing code interactively. Both interactive and automated approaches matter. The 'vibe coding' vs. 'blind coding' distinction: engineers with fundamentals thrive; those without them ship dangerous code.",
+    "content": "Play this out over the future for me. Play this out over the next three or four years because look, there's a camp that believes that a lot of writing code itself might be automated ... I want to know your thoughts on how you see this evolve which camp you're in or maybe there's a third camp I don't know about and how is Warp going to stay relevant across this. ... So, the way that I see it developing is there's three phases to it in my opinion. So, there's what I did for most of my career was like write software by hand. I think that's ending and the next phase of that is like writing software by prompt. ... I think actually we're still at the beginning of the adoption of that despite all the hype that you see like it's going to take a while for developers especially on pro you know like big code bases to get to a point where they're fully working by prompt. But then the other thing that's happening is automating parts of development. And I fully think that's going to happen too. ... like you know can you build something where every time a PR gets submitted there's an agent that goes and updates your documentation to match the new user experience or can you have something where every time there's a server that crashes you have an agent that goes and investigates and fixes like the crash for you. And so at warp like we're trying to invest in both of those. ... my guess is like three or four years from now, it's like you as a developer working on a real codebase are spending some portion of your time still doing this interactive thing, but an increasing portion of your time is like managing or observing or orchestrating what a bunch of these automated agents are doing.",
+    "questions_on_this_chunk": [
+      "What are the three phases of software engineering's evolution?",
+      "Will AI automate all coding?",
+      "What will developers do in 3-4 years if AI writes code?",
+      "What is the difference between vibe coding and blind coding?"
+    ]
+  },
+  {
+    "chunk_id": 8,
+    "videoId": "L9ZyUTrhXSQ",
+    "chunk_summary": "Craft vs. outcome for engineers: the value of engineering is in the product and economic outcome, not the act of writing code. Senior engineers need to shift from 'code quality' ego to outcome thinking. Counterintuitive insight: senior developers at Warp initially resisted AI tools — leadership had to force them to try starting every task in Warp before they saw the value.",
+    "content": "Do you think we're stealing away agency from some of these engineers to do this or should they just make peace with the fact that they're going to be a manager of these agents? ... my take is like it's actually very exciting from the standpoint of as an individual the amount of cool stuff that I'm going to be able to build is going to be exponentially higher because of this technology. ... I like seeing the working product and so I just I find that to be like the coolest thing about engineering ... if you are an engineer and you're conceiving of your job as like anything but solving some problem for some user that has some economic value, I think you're going to have a problem in the future ... if I were like running a consultancy in India where the idea has been like we're going to provide code building services I would change that idea extremely quickly to being like we're going to provide software that solves a business problem. ... one counterintuitive thing that was very very interesting is when we first started getting to a point where warp was usable to build warp meaning like you get this cool recursive loop of using the tool you're building to build the tool itself. Our senior developers were super reluctant. ... they were like the code that this thing produces is not good. I know how to do this better myself. I can do it faster myself. And so we actually had to do a thing where I was just like, 'No, you're going to try to start every single coding task in Warp. You don't necessarily have to finish it within Warp.' And then it's totally changed in the past three months where some of the senior developers on our team have gotten it and are able to wield it in the same way that they were awesome at the terminal or awesome at Vim or whatever before. They're now awesome at using these agents.",
+    "questions_on_this_chunk": [
+      "Is coding craft more important than product outcome?",
+      "How did Warp get senior engineers to adopt AI tools?",
+      "What should junior engineers focus on in the AI era?",
+      "Why did senior developers resist using AI coding agents?"
+    ]
+  },
+  {
+    "chunk_id": 9,
+    "videoId": "L9ZyUTrhXSQ",
+    "chunk_summary": "AGI and AI model predictions: recent model iterations show slightly smaller incremental improvements, suggesting a possible S-curve rather than exponential growth. However, adoption of useful AI is still very early (95% of enterprise AI pilots yield no actual benefits). The real boom will come from productizing existing model capabilities, not just model improvements.",
+    "content": "I want a macro insight on AI, right? Because you know how it's going. ... Do you think we're going to get AGI in a couple of years where you know press a button and things are done or do you feel like it's going slower than expected? ... So, first of all, I don't know, but I'll give you my guess because I think it's more interesting to get a guess than not. It seems a little bit to me like the latest iterations of the models have been like slightly smaller incremental benefits than the prior ones. ... I don't know if what you'll see is like a exponential improvement or you'll see something that looks more like an S-curve where you sort of on whatever the current architecture is start to see more diminishing returns. I think that's like the gazillion dollar question honestly ... that said, I still think the other thing I think is like we're very very early in the roll out and adoption of like useful AI. It's very useful in coding. It's very useful in customer service is a second place where there's like a big product market fit. It's like there's this study that came out. That's like 95% of AI pilots at companies don't yield actual benefits. And so I think that the actual adoption and productization of AI for most things is not is just like way behind what the foundational technology would allow. So even if the models do slow down a bit, I still think that you're going to see a huge boom in AI products where like these things are productized in a useful way because that's just we're just starting that.",
+    "questions_on_this_chunk": [
+      "Are AI models still improving exponentially?",
+      "What is the S-curve prediction for AI development?",
+      "Why do 95% of enterprise AI pilots fail?",
+      "Will AGI arrive in the next few years?"
+    ]
+  },
+  {
+    "chunk_id": 10,
+    "videoId": "L9ZyUTrhXSQ",
+    "chunk_summary": "Lessons from building Warp: don't get too anchored to your initial business plan (Warp's original collaboration platform idea). Listen to the market. The founder wishes they had gone all-in on AI sooner and harder — they had the interface for agentic coding but a competitor beat them to market by 3 months. Be less precious about initial ideas.",
+    "content": "I have one last question for you, which is if you were to do the entire journey again, what would you do differently? ... Yeah, we spent too much time on our like kind of preconceived notion of what was going to make the business work, which was this collaboration platform. Again, if you're a founder, I think really important lesson is to like listen to the market. Don't get too anchored on your like, you know, your biases going in. I wish we had gone all in on AI sooner, faster, harder. Because, you know, we had like an amazing interface for doing something like cloud code, but cloud code beat us to market by like three months with our agentic thing. And like they have all other advantages too, just to be clear, but like we knew we wanted it. we were building it and like had we started executing on it faster we would be further along right now. So I would say like don't be too precious about your ideas going in and like I would have adjusted and gone harder on the area where you know there was more market pull faster if I had to do it again.",
+    "questions_on_this_chunk": [
+      "What is the biggest lesson from building Warp?",
+      "Why is it dangerous to be too anchored to your initial business plan?",
+      "How important is speed to market in AI?",
+      "What would Warp's founder do differently?"
+    ]
+  }
+]

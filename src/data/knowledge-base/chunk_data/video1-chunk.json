@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": 1,
+    "videoId": "EsgQ0bQzvZ0",
+    "chunk_summary": "Introduction to the go-to-market (GTM) strategy for SaaS, emphasizing the need for different approaches at each customer milestone (0 to 10, 10 to 50, 50 to 100, 100 to 1000) and explaining how this system was used to scale multiple SaaS businesses to $40M ARR.",
+    "content": "So, everyone on Interwebs is going to tell you the key to starting a successful SAS business, but if you really think about it, boils down to just one thing. You have to have customers. If you don't have customers paying you for your SAS business, you don't have a successful SAS business. So, that's why you need a go to market strategy to not just get lots of customers, but strategize each point that you're getting to. You need to be able to have a plan to get your first 10 customers, to take your first 10 customers to 50 customers to 100 customers and a thousand customers. Each of those points is very different because you need to be aiming for specific things in your goto market strategy, which is what this video is going to show you. I'm going to show you the go to market strategy I've used at each of those points, which is where a you're just starting off, nobody knows who you are to the point where you actually have a successful product, but you need to actually start scaling the product. I've used this process to take several SAS companies from zero to 100,000 multiple hundred thousands per month and then refined it in my latest business to take it to around $40 million a year ARR and a multi-9 figure valuations which I would deem as a successful SAS company. This is going to apply to you regardless of where you are. If you're starting a new product, it's going to help you get your first customers. But if you have an existing SAS, this is going to show you why you're not scaling to that next point.",
+    "questions_on_this_chunk": [
+      "What is a go-to-market strategy for SaaS?",
+      "Why do you need different approaches at different customer milestones?",
+      "How many customer stages are there in scaling a SaaS business?",
+      "What results did Alex Becker achieve using this GTM system?"
+    ]
+  },
+  {
+    "chunk_id": 2,
+    "videoId": "EsgQ0bQzvZ0",
+    "chunk_summary": "The MVP phase: before building the product, define your target customer, create a simple concept or mockup, and reach out to potential users to confirm they would pay for it, including using a fake sales call to test willingness to pay annually upfront.",
+    "content": "So, like I said, there are phases to this and you need to recognize what phase you are in. There's MVP phase where you just have an idea. You don't even have a product. And you don't really need to be making a product until you've confirmed that your MVP is actually going to get customers. ... So, during your MVP phase, what you need to do is you need to think about who your target customer is going to be. ... And what we want to then do is we want to either vibe code or even just draw out what we want our product to be. And then we want to reach out to these businesses and simply show them the idea. ... This means look, if we're selling something, I'm going to talk about for example, Hyros. My business I've scaled to $40 million AR. So you can have an idea of what I did. So when I have this idea, I noticed that businesses, specifically businesses that were tracking phone calls, were having a very hard time actually tracking where their phone calls came from and where their closes on the phone calls came from when they were running Facebook ads and Google ads. So, I reached out to agencies and people I knew that had businesses that were running ads. And what I did is I drew up a very simple concept of something I was using. ... I showed this to people and said, \"Would you like me to develop this for you? Would you pay me for this? Would you sign up and pay me consistently for this?\" A lot of people said yes. ... One thing I also did in this time period right here is when I talked to these businesses, I would simulate a sales call. ... I basically laid out the problem. I talked about the problem and then I said, \"Hey, look, so we have the solution right now. Would you pay $3,000 upfront to have this solved for you? Would you pay off your annual subscription upfront? ... everybody was saying yes at this point. And I said, \"Okay, that's great. We're going to go make it now. I'm not actually going to charge you money.\" But that simple fake phone call strategy that I talked about, fake sales call strategy that I just discussed. This right here confirmed people would pay for it.",
+    "questions_on_this_chunk": [
+      "What is the MVP phase in SaaS?",
+      "How do you validate a SaaS idea without building a product?",
+      "What is the fake sales call strategy?",
+      "Should you charge customers during the MVP validation phase?"
+    ]
+  },
+  {
+    "chunk_id": 3,
+    "videoId": "EsgQ0bQzvZ0",
+    "chunk_summary": "Getting the first 10 customers: build a minimal, ugly version of the product, onboard users for free, manually set them up, and obsess over getting them a result before ever charging. If results fail, narrow the target or fix the product until it works.",
+    "content": "Now, how do we get our first 10 customers and why do we only want to focus on getting 10 customers? Because ... the core of any business ... is results. If you don't have results, you don't have a business. ... And so the reason why we want to focus on getting our first 10 customers is so we can work directly with those customers. We're not even trying to get money yet. ... we're going to go build the thing. We're going to build a very rudimentary ghetto rigged piece of that does the basic functionality ... And so what I do is I get those customers I talked about originally, the MVP. I also reached out to a lot of people I knew were having this problem after I confirmed the MVP. I then sold this to them for free. ... How do we find these businesses to reach out to? They're on Facebook. They're on LinkedIn. They're talking about it. ... you find these businesses, X, LinkedIn, Facebook, find business owners, reach out to them, offer to solve their problem for free. ... And what you're going to do is you're going to put them on the software for them. You're basically going to be their tech guy. And you put them on the software, you set them up, and you get them the result, whatever it is. And if you fail to get result the result, you go and look at why the result is not happening. Is the target too vague? ... narrow it down ... you fix it until it works. And what you need to do is focus on getting 10 happy customers who are not paying you anything.",
+    "questions_on_this_chunk": [
+      "Why should you focus on only 10 customers initially?",
+      "How do you get your first 10 SaaS customers for free?",
+      "What should you do if your product doesn't get results for early users?",
+      "Where can you find potential customers for manual outreach?"
+    ]
+  },
+  {
+    "chunk_id": 4,
+    "videoId": "EsgQ0bQzvZ0",
+    "chunk_summary": "Turning free users into paying customers and collecting testimonials: after getting results, propose a monthly price based on value, use the ROI argument to close, and ask for honest testimonials in exchange for extended free usage.",
+    "content": "So, they should be super happy at this point. And what you should be able to do after you've gotten them results is be able to then propose billing them something. So you guesstimate how much your product is going to be worth. So our opening price at hires was $199 per month. So all I did is said, \"Hey, look, we've solved this problem for you. Is this result good enough that you would pay us $199 per month or $300 per month, $500 per month, depending on the size of their business?\" And we got to the point where they said yes. If they said no, I said, \"What needs to be there for us to be able to charge this? Why? ... if someone's doing this right here and I run to their ads and they were losing, I don't know, $5,000, $10,000 a month ... If I go to them and say, 'Okay, cool. Will you pay $500 a month for this?' They say, 'No.' I say, 'Okay, cool. But you realize you're going to make $10,000 per month less if we turn this off.' They're suddenly going to be like, 'Okay, here's $500.'\" ... And this is the point we want to get to right here because once we are at this point, now we actually have a product. ... What I like to do is say, \"Hey, look, all right, we're not going to bill you. We're going to give you like four months, six months free. ... give us a testimonial. Talk about your results. Give us an honest testimonial.\" ... So, why do we get these testimonials? Obvious. Because when you're reaching out to businesses at first, there's no proof that it works.",
+    "questions_on_this_chunk": [
+      "How do you transition free SaaS users to paying customers?",
+      "What is the ROI-based sales argument for B2B SaaS?",
+      "How can you get testimonials from early users?",
+      "What should you do if a customer refuses to pay after seeing results?"
+    ]
+  },
+  {
+    "chunk_id": 5,
+    "videoId": "EsgQ0bQzvZ0",
+    "chunk_summary": "Scaling from 10 to 30 customers with testimonials and a defined offer: use the first testimonials to build a results page, then reach out to more businesses with a 'pay after results' pitch, while starting to build basic billing and signup infrastructure.",
+    "content": "So, at this point, what we're then going to do is maybe you can go and build the billing infrastructure and all the things you need to actually bring on customers like a grown-up. More importantly, what we're going to be doing is we're going to be using the same reach out method to get more businesses in. We're going to sign them up for free, but we're going to have money intent this time and we're going to be armed with testimonials. So, we're going to do the same exact process except when we reach out to businesses now, we're going to show them a page of results. ... The pitch is going to be, \"We put you on for free after it works and makes you more money. Then, we're going to bill you this amount.\" ... It's now very much, look at all the results these people got. We're going to get you the same results. We're going to do it for you. And once it gets you results, we agree that you're going to pay $3,500 for a year upfront. Something like that. This is a very low touch pitch, low-risk pitch because again the person doesn't pay you until they're making way, way more money than they're going to be paying you. ... And what we're focused now on is kind of the business infrastructure. How do we get people in with billing? How do we start scaling up the customer setup systems? ... we are slowly transitioning the business from something where we do it completely for them to mostly for them to sort of for them. And we want to get to the point where they just sign up and do it themselves.",
+    "questions_on_this_chunk": [
+      "How do you use testimonials to get more SaaS customers?",
+      "What is the 'pay after results' offer in SaaS?",
+      "When should you start building billing infrastructure?",
+      "How do you transition from a done-for-you service to a self-serve SaaS?"
+    ]
+  },
+  {
+    "chunk_id": 6,
+    "videoId": "EsgQ0bQzvZ0",
+    "chunk_summary": "Leveraging influencers and big testimonials: after having 30 happy customers, target smaller YouTubers or niche influencers, give them free access, get them results, then secure a testimonial (and optionally an affiliate deal) to boost credibility.",
+    "content": "So, at 30 happy customers, you have a lot of testimonials and your product clearly works. So, what we're going to try and do at this point is try to get big testimonials. ... One of the things that we have that's plays to our huge advantage is we have tons of famous people that say it works. ... What you want to do is find lower level YouTubers, lower level influencers who are in your niche and get them to use your product. And how do you get them to use the product? One, we use the same method again. Offer it for free, bill later, and your goal is a testimonial. So, find a YouTuber that's getting a few thousand views per video. Find an Instagram influencer that's getting a few thousand views on their posts or whatever. Small people that are not going to be ego inflated and asking for hundreds of thousands of dollars for their mention. Your goal here is not specifically to get them to advertise it. Your goal here is to get them results and then twist it into what I'm going to show you here in a second. ... you slap it at the top of your testimonials. ... One of my biggest goals at testimonials is finding big brands and getting a testimonial from them. ... So where can we go with this now that we have this influencer testimonial? One, if you and the influencer get along well, give them affiliate link and pay them to talk about your product and their videos to their market that is your target market.",
+    "questions_on_this_chunk": [
+      "How can you get influencers to promote your SaaS for free?",
+      "What type of influencers should you target for early testimonials?",
+      "How do you turn a free influencer trial into a testimonial?",
+      "What is the benefit of having big-name testimonials?"
+    ]
+  },
+  {
+    "chunk_id": 7,
+    "videoId": "EsgQ0bQzvZ0",
+    "chunk_summary": "Advertising based on results and scaling to 100 customers: use a simple ad strategy that shows proven results and offers a risk-free trial, create a dedicated results page, and combine ads with organic content marketing to reach the next 50-100 customers.",
+    "content": "What you can also start now doing is what I like to call the advertising your results strategy. And it's exactly what it sounds like. You advertise your damn results. ... The only thing that people really care about in B2B business SAS is results. ... What I have in my ads ... it's very simple. Hey, do you want to make this result? ... Here's like 50 businesses have gotten this result. Here's a bunch of people that you trust getting this result. If you want to get this result, click this ad. We'll prove it even more and you can sign for goal and we'll get you this result. And if you don't get this result, we won't make you pay for it. Do you see how simple that is? There was no risk to my advertising strategy whatsoever for the customer. ... So what we then start doing is we want to maybe use the influencers, our bigger names that we got testimonials from, offer them some incentive. And then what we want to do is we start running ads to our business, specifically to what I like to reference as a result page ... You make a big old result page that breaks down what your product does and you just rub endless results in people's faces. ... There's also a bonus if you're a cheap ... You can actually just go and start using organic strategies. Start making content. ... making content on X LinkedIn and YouTube is a great way to start getting your next couple customers. ... All you have to do is be getting 15 more customers per month to be well on your way to your first 100 customers using this result page and this result strategy.",
+    "questions_on_this_chunk": [
+      "What is the 'advertising your results' strategy for SaaS?",
+      "How should SaaS ads be structured to convert?",
+      "What is a results page and how do you use it?",
+      "Can organic content help acquire the first 100 SaaS customers?"
+    ]
+  },
+  {
+    "chunk_id": 8,
+    "videoId": "EsgQ0bQzvZ0",
+    "chunk_summary": "Preparing for scale at 50-100 customers: build out onboarding, customer success, and support systems because many customers will fail without white-glove setup; optimize until results are consistent again before pushing further.",
+    "content": "Now, once we've gotten to the point where we're at 50 to 100 customers, what you're probably going to see is the wheels start to fall off your business because before you were interacting with every customer one to one, you're getting to the point where you can't ... you really have to start building out the infrastructure business. This means your onboarding systems. This means your customer results or success. And this means staying on top of the results. This means watching customers come in and seeing how many of them fail. You're going to start seeing a lot of customers fail because now you're starting to move to scale. And the part where not every customer is going to have one-to-one customized white glove setup. That's fine. This is the point where you take a second and you take a little breather and you start optimizing your business for scale. This means making your onboarding super clear. This means really hiring a good head of customer success who builds your customer support team that is able to assist customers and make up for your shitty onboarding and your shitty software uh setup originally when people come on. ... You can have the best product on earth, but no one uses it because your onboarding is bad. ... you overcome that with really good customer support and then grinding the out of your onboarding. And then finally, you do not start moving forward or really start trying to scale the business until you're seeing lots of these customers now getting results.",
+    "questions_on_this_chunk": [
+      "What infrastructure is needed when a SaaS reaches 50-100 customers?",
+      "Why do SaaS customers fail at scale?",
+      "How important is onboarding in a SaaS business?",
+      "What is the role of customer success during scaling?"
+    ]
+  },
+  {
+    "chunk_id": 9,
+    "videoId": "EsgQ0bQzvZ0",
+    "chunk_summary": "Scaling beyond 100 customers with a distribution engine and metric-based growth: find a way to get others to resell or promote your product (distribution engine), then use lifetime value (LTV) data to profitably acquire customers through ads, creating a self-reinforcing flywheel.",
+    "content": "So once we have a 100 customers ... we want to start using these in combination with our now good onboarding and customer results and customer success aka customer support to grow the business. ... I suggest finding some type of distribution engine in your business. So, for example, at go high level, really good example of this is they made a really good clickfunneles landing page/build a business in a box software. And instead of just directly selling that, they allowed agencies to white label the software and then sell it as their own software. ... If you saw Zapier, what it did is it added a feature to so many businesses and then Zapier made pages for the businesses and then the businesses sent their traffic to those pages to get people to sign up for Zapier. ... These are distribution engines. ... Now the other best way to grow this is going to be metricbased growth. ... Figure out the lifetime value of your customer. ... What's your churn at? Get your churn super low so that when you get a person that signs up for $100 per month, they stay for three years. So, they're worth $3,600. Then what you do is you run ads and then you find ways to get people on your software for less than $3,600. ... we spend $500 to get a $100 subscription, but we know they stay for three years. ... we lose a little bit of money up front, but we're nearly 7xing our money over 3 years. ... And what's going to happen through all this is you're going to start getting more big names. Big brands are going to start coming to you on your software ... and you create this flywheel effect where you start with this very simple stuff that is all result based, and it slowly starts getting bigger and bigger.",
+    "questions_on_this_chunk": [
+      "What is a distribution engine in SaaS?",
+      "How does metric-based customer acquisition work?",
+      "How can you use LTV to scale ad spend profitably?",
+      "What is the flywheel effect in SaaS growth?"
+    ]
+  }
+]
