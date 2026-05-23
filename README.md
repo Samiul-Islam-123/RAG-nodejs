@@ -78,17 +78,27 @@ ollama pull nomic-embed-text
 ollama pull gemma4:31b-cloud
 ```
 
-### 5. Ingestion Pipeline & Execution
-Simply run the pipeline script:
+### 5. Running the Chatbot Loop 💬
+To start chatting with your SaaS Marketing expert, run:
 ```bash
 node src/pipeline/main.js
 ```
 
 > [!NOTE]
-> **Automatic Data Ingestion (First-Time Run)**:
-> The pipeline script automatically checks if your Qdrant collection `video_chunks` contains any vector points. 
-> - **First run**: If empty, the system automatically kicks off the document processor, vectorizes your manual chunks, and seeds Qdrant.
-> - **Subsequent runs**: The system skips ingestion and directly starts the interactive chatbot session to save compute.
+> **Zero-Config Seeding (First-Time Run)**:
+> The script automatically checks your Qdrant collection on startup.
+> - **First Run**: If the database is empty, the system automatically runs the ingestion pipeline, vectorizes all manual chunks, and populates Qdrant.
+> - **Subsequent Runs**: Ingestion is skipped entirely, taking you straight to the interactive prompt loop in less than a second!
+
+---
+
+## 💬 What Can You Ask?
+The chatbot is pre-seeded with transcripts containing real-world growth playbooks, SaaS marketing strategies, and customer acquisition milestones. You can prompt the model with questions like:
+- *"How do I validate a B2B SaaS idea before writing code? Explain the 'fake sales call' strategy."*
+- *"What is the 'pay after results' offer and how do I implement it?"*
+- *"How do I transition early free users of a SaaS into paying customers?"*
+- *"How do I scale customer acquisition from 10 to 30 customers using testimonials?"*
+- *"What is a distribution engine in SaaS and how do products like GoHighLevel or Zapier use it?"*
 
 ---
 
